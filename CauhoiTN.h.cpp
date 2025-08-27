@@ -14,6 +14,7 @@ public:
     void ghifile(ofstream& f);
     void docfile(ifstream& f);
     bool kiemtra();
+    cout << "Ghi dap an";
     friend bool giongnhau(CauhoiTN cau1, CauhoiTN cau2);
 };
 
