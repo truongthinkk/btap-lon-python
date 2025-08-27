@@ -13,8 +13,8 @@ public:
     void xuat();
     void ghifile(ofstream& f);
     void docfile(ifstream& f);
-    bool kiemtra();
-    friend bool giongnhau(CauhoiTN cau1, CauhoiTN cau2);
+    // bool kiemtra();
+    // friend bool giongnhau(CauhoiTN cau1, CauhoiTN cau2);
 };
 
 #endif
